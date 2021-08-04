@@ -1,4 +1,4 @@
 .env
 /node_modules
 .jshintrc
-/output/merged.csv
+merged.csv
